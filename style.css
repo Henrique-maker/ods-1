@@ -1,0 +1,21 @@
+body{
+    background-color: #CCD1D1;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+    color: #273746;
+}
+h2{
+    text-align: center;
+    color: #273746;
+}
+P{
+    margin: 20px;
+    font-size: 14px;
+}
+div{
+    margin: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
